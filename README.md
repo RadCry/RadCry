@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadCry
+- 👋 Hi, I’m @RadCry AKA Munib
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning SQL,ML,AI
 - 📫 How to reach me zameeruddinshah7@gmail.com
